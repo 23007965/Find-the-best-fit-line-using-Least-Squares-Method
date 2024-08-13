@@ -47,6 +47,7 @@ plt.show()
 ```
 
 ## Output:
+![Screenshot (6)](https://github.com/user-attachments/assets/57dd93ea-2dca-4f5a-a854-942f7d41144b)
 
 
 
